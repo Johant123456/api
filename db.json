@@ -1,31 +1,32 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"users": [{
+			"id": "1234abc",
+			"username": "bear",
+			"score": 55,
+			"active": true
+		},
+		{
+			"id": "qwerty",
+			"username": "jed",
+			"score": 553,
+			"active": true
+		},
+		{
+			"username": "schmeb",
+			"score": 59,
+			"active": true,
+			"id": "i1HYeyQ"
+		}
+	],
+	"attempts": [{
+			"id": "a1",
+			"score": 5,
+			"userId": "qwerty"
+		},
+		{
+			"id": "999",
+			"score": 8,
+			"userId": "qwerty"
+		}
+	]
 }
