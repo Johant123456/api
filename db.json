@@ -1,12 +1,12 @@
 {
 	"users": [{
-			"id": "1234abc",
+			"id": "1",
 			"username": "bear",
 			"score": 55,
 			"active": true
 		},
 		{
-			"id": "qwerty",
+			"id": "2",
 			"username": "jed",
 			"score": 553,
 			"active": true
@@ -15,7 +15,7 @@
 			"username": "schmeb",
 			"score": 59,
 			"active": true,
-			"id": "i1HYeyQ"
+			"id": "3"
 		}
 	],
 	"attempts": [{
