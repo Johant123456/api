@@ -28,6 +28,15 @@
 			"score": 8,
 			"userId": "qwerty"
 		}
+	],
+	"posts": [{
+			"id": "1",
+			"message": "hello"
+		},
+		{
+			"id": "2",
+			"message": "hello"
+		}
 	]
 	
 }
