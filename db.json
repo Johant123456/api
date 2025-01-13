@@ -45,28 +45,28 @@
  
     "albums": [
         {
-            "Id": "1",
-            "Title": "Abbey Road",
-            "Artist": "The Beatles",
-            "Price": 25.99
+            "id": "1",
+            "title": "Abbey Road",
+            "artist": "The Beatles",
+            "price": 25.99
         },
         {
-            "Id": "2",
-            "Title": "Thriller",
-            "Artist": "Michael Jackson",
-            "Price": 19.99
+            "id": "2",
+            "title": "Thriller",
+            "artist": "Michael Jackson",
+            "price": 19.99
         },
         {
-            "Id": "3",
-            "Title": "Back in Black",
-            "Artist": "AC/DC",
-            "Price": 18.99
+            "id": "3",
+            "title": "Back in Black",
+            "artist": "AC/DC",
+            "price": 18.99
         },
         {
-            "Id": "4",
-            "Title": "Rumours",
-            "Artist": "Fleetwood Mac",
-            "Price": 21.99
+            "id": "4",
+            "title": "Rumours",
+            "artist": "Fleetwood Mac",
+            "price": 21.99
         },
         {
             "Id": "5",
