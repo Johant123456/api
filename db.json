@@ -69,10 +69,10 @@
             "price": 21.99
         },
         {
-            "Id": "5",
-            "Title": "The Dark Side of the Moon",
-            "Artist": "Pink Floyd",
-            "Price": 22.99
+            "id": "5",
+            "tile": "The Dark Side of the Moon",
+            "artist": "Pink Floyd",
+            "price": 22.99
         }
     ]
 
