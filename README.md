@@ -11,7 +11,9 @@ curl -X GET "https://my-json-server.typicode.com/Johant123456/api/albums/1"
 ```
 
 ```
-Invoke-WebRequest -Uri "https://my-json-server.typicode.com/Johant123456/api/albums/1" -Method Get 
+Invoke-WebRequest -Uri "https://my-json-server.typicode.com/Johant123456/api/albums/1" -Method Get
+
+ (iwr -URI https://my-json-server.typicode.com/Johant123456/api/albums/5).content
 ```
 
 
