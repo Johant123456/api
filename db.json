@@ -1,75 +1,78 @@
+
 {
-	"users": [{
-			"id": "1",
-			"username": "bear",
-			"score": 55,
-			"active": true
-		},
-		{
-			"id": "2",
-			"username": "jed",
-			"score": 553,
-			"active": true
-		},
-		{
-			"username": "schmeb",
-			"score": 59,
-			"active": true,
-			"id": "3"
-		}
-	],
-	"attempts": [{
-			"id": "a1",
-			"score": 5,
-			"userId": "qwerty"
-		},
-		{
-			"id": "999",
-			"score": 8,
-			"userId": "qwerty"
-		}
-	],
-	"posts": [{
-			"id": "1",
-			"message": "hello 1"
-		},
-		{
-			"id": "2",
-			"message": "hello 2"
-		}
-	],
-[
-    {
-        "Id": "1",
-        "Title": "Abbey Road",
-        "Artist": "The Beatles",
-        "Price": 25.99
-    },
-    {
-        "Id": "2",
-        "Title": "Thriller",
-        "Artist": "Michael Jackson",
-        "Price": 19.99
-    },
-    {
-        "Id": "3",
-        "Title": "Back in Black",
-        "Artist": "AC/DC",
-        "Price": 18.99
-    },
-    {
-        "Id": "4",
-        "Title": "Rumours",
-        "Artist": "Fleetwood Mac",
-        "Price": 21.99
-    },
-    {
-        "Id": "5",
-        "Title": "The Dark Side of the Moon",
-        "Artist": "Pink Floyd",
-        "Price": 22.99
-    }
-]
-	
-	
+    "users": [
+        {
+            "id": "1",
+            "username": "bear",
+            "score": 55,
+            "active": true
+        },
+        {
+            "id": "2",
+            "username": "jed",
+            "score": 553,
+            "active": true
+        },
+        {
+            "id": "3",
+            "username": "schmeb",
+            "score": 59,
+            "active": true
+        }
+    ],
+    "attempts": [
+        {
+            "id": "a1",
+            "score": 5,
+            "userId": "qwerty"
+        },
+        {
+            "id": "999",
+            "score": 8,
+            "userId": "qwerty"
+        }
+    ],
+    "posts": [
+        {
+            "id": "1",
+            "message": "hello 1"
+        },
+        {
+            "id": "2",
+            "message": "hello 2"
+        }
+    ],
+    "albums": [
+        {
+            "Id": "1",
+            "Title": "Abbey Road",
+            "Artist": "The Beatles",
+            "Price": 25.99
+        },
+        {
+            "Id": "2",
+            "Title": "Thriller",
+            "Artist": "Michael Jackson",
+            "Price": 19.99
+        },
+        {
+            "Id": "3",
+            "Title": "Back in Black",
+            "Artist": "AC/DC",
+            "Price": 18.99
+        },
+        {
+            "Id": "4",
+            "Title": "Rumours",
+            "Artist": "Fleetwood Mac",
+            "Price": 21.99
+        },
+        {
+            "Id": "5",
+            "Title": "The Dark Side of the Moon",
+            "Artist": "Pink Floyd",
+            "Price": 22.99
+        }
+    ]
 }
+ 
